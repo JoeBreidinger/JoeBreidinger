@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently developing my skills as a software engineer, with a passion for **web development**, **data analysis**, and **cybersecurity**. My journey began in **culinary arts**, **logistics**, and **finance**, giving me a unique appreciation for both creative design and practical systems. I thrive at the intersection of front-end aesthetics and back-end logic, aiming to build solutions that are as beautiful as they are functional.
+I'm currently developing my skills as a software engineer, with a passion for **software engineering**, **AI development**, and **cybersecurity**. My journey began in **culinary arts**, then **finance**, and **logistics** giving me a unique appreciation for both creative design and practical systems. I thrive at the intersection of front-end aesthetics and back-end logic, aiming to build solutions that are as beautiful as they are functional.
 
 I'm studying full-stack development at the **U of M Fullstack Academy Bootcamp**, where I'm expanding my technical toolkit and sharpening my problem-solving skills.
 
@@ -54,4 +54,6 @@ Growing up during the rise of digital innovation, I’ve been inspired to pursue
 
 ---
 
-> “I strive to harmonize creativity with practicality—whether in code, design, or everyday life.”
+> “I strive to harmonize creativity with practicality — whether in code, design, or everyday life.”
+
+> "The important thing about a problem is not its solution, but the strength we gain in finding the solution." - Seneca
