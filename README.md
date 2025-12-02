@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joe Breidinger!
 
-### 🚀 Aspiring Software Engineer | Full-Stack Student | Lifelong Learner
+### 🚀 Cybersecurity Student | Full-Stack Developer | Lifelong Learner
 
 ---
 
