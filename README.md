@@ -33,7 +33,7 @@ I am currently pursuing my CompTIA Security+ certification, an experience that h
 
 ## 💡 Favorite Projects
 
-- [Portfolio Website](https://github.com/JoeBreidinger/Portfolio-Website) — My personal portfolio showcasing my work and growth as a developer.
+- [Portfolio Website](https://joepro.dev/) — My personal portfolio showcasing my work and growth as a developer.
 - [AI Fitness Planner](https://gainzplanner.ai/) — GAiNZ — a lightweight AI workout assistant that helps you build workouts and save them to share the GAiNZ!
 - [Robofriends](https://github.com/JoeBreidinger/robofriends) — Exploring creative front-end design and the API request/response cycle.
 - [Whack-A-Mole](https://github.com/JoeBreidinger/whack-a-mole) — Practicing state management and having fun doing it!
