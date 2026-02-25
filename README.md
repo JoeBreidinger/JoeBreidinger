@@ -27,7 +27,7 @@ I bring a strong foundation in leadership, client engagement, and operational st
 
 Growing up during the rise of digital innovation, I’ve been inspired to pursue a career in programming and automation, driven by a passion for continuous learning and building solutions that are both creative and practical. I’m excited by the opportunity to contribute meaningfully to a team that values quality and growth.
 
-I am currently pursuing my CompTIA Security+ certification, an experience that has been both challenging and rewarding. Exploring the field of cybersecurity has broadened my perspective and deepened my curiosity—the more I learn, the more motivated I become to expand my knowledge. As I continue building a career in technology, I am committed to developing the skills necessary to safeguard critical data and contribute to secure, resilient systems.
+I have also earned my CompTIA Security+ certification, an experience that was been both challenging and rewarding. Exploring the field of cybersecurity has broadened my perspective and deepened my curiosity—the more I learn, the more motivated I become to expand my knowledge. As I continue building a career in technology, I am committed to developing the skills necessary to safeguard critical data and contribute to secure, resilient systems.
 
 ---
 
