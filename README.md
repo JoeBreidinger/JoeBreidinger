@@ -8,7 +8,7 @@
 
 I'm continually developing my skills as a software engineer, with a passion for **software engineering**, **AI development**, and **cybersecurity**. My journey began in **culinary arts**, then **finance**, and **logistics** giving me a unique appreciation for both creative design and practical systems. I thrive at the intersection of front-end aesthetics and back-end logic, aiming to build solutions that are as beautiful as they are functional.
 
-I developed a strong technical foundation to full-stack development at the **U of M Fullstack Academy Bootcamp**, where I expanded my technical toolkit and sharpening my problem-solving skills.
+I developed a strong technical foundation to full-stack development at the **U of M Fullstack Academy Bootcamp**, where I expanded my technical toolkit and sharpening my problem-solving skills. Additionally, I have built a solid understanding of cloud networking and security fundamentals through earning my CompTIA Security+ certification. It’s helped me round out my skill set and given me a stronger foundation for tackling technical challenges from different angles.
 
 ---
 
